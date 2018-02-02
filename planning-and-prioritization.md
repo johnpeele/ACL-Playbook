@@ -6,7 +6,8 @@ We have a lot to do. New features, bug fixes, UI improvements, code quality, cus
 
 We know what to work on and when by prioritizing large team projects \(or "Epics"\) and individual contributions. This starts with an understanding of how our goals align from the individual to the company:
 
-Company Goals → Team Goals → Individual Goals  
+`Company Goals → Team Goals → Individual Goals`
+
 All goals are completely transparent and shared with the entire team from the company level down to each individual. This means the entire team is involved when setting goals. We avoid goals being prescribed "top down" as this makes for an unhappy team and does not foster product ownership.
 
 Though we make exceptions for critical issues or time sensitive opportunities, we generally try to prioritize on a quarterly basis. This process is cleverly named: Quarterly Planning.
