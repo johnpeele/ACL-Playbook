@@ -6,9 +6,9 @@ How does Poll Everywhere get code from the fingertips of our engineers into our 
 
 Are you working on something big that's green field? Are multiple people involved in a project? Never underestimate the power of taking some time up front for laying down a design. It can be as simple as sketching out an API in a gist with your pair bear, playing around with what it should look like calling the code in an rspec test, or creating a user-flow diagram to show complex interactions in detail. A little work up front can save tons of work later, especially when people start asking the question, "how is that suppose to work again?"
 
-## Planning &amp; pairing up
+## Planning & pairing up
 
-During our weekly planning meeting7, engineers and non-engineers figure out what they're going to build for the week.
+During our weekly planning meeting, engineers and non-engineers figure out what they're going to build for the week.
 
 To pair or not to pair? That depends on the team sizes and the people involved. There is no "one way" to write code at Poll Everywhere.
 
@@ -18,7 +18,7 @@ Where does all of that code go after it's written? If 20 engineers are working o
 
 Developers don't just save a file and they're done with it, they have to save it somewhere that all other engineers have access to. This central area is called a Source Code Repository. To prevent engineers from clobbering each others work they have to make a "commit" to the repository. Every commit is saved with a comment from a developer describing what they changed, a date and time, the email address of the developer, and a unique fingerprint that represents _all_ of the source code in that project at that point in time.
 
-At Poll Everywhere, engineers use a popular source code repository called git10. We use GitHub11 to host our code and follow common git conventions.
+At Poll Everywhere, engineers use a popular source code repository called git. We use GitHub to host our code and follow common git conventions.
 
 Git allows engineers to give these fingerprints names. Often you'll hear engineers talking about "branches". Yes, like a tree, engineers can "fork" code from any given point in time, build a new feature in that branch independently of any other developer's branch, then merge it back into the "master" branch when it's all done.
 
@@ -67,3 +67,4 @@ When everything looks good on staging, a developer can then deploy the code to o
 ## Fixing bugs
 
 Surprisingly, with all the levels of testing and checking we do to our code, there ends up being bugs that get deployed to production. These bugs are usually reported by customers who are using a combination of software and hardware that our engineers didn't anticipate, or a search engineer crawler hits a URL in a way we didn't anticipate. These unexpected uses result in a web page breaking, which a developer has to fix, test and deploy.
+
