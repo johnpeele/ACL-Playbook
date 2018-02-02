@@ -1,6 +1,6 @@
 # Summary
 
 * [Introduction](README.md)
-* [Planning & Prioritization](chapter1.md)
+* [Planning & Prioritization](planning-and-prioritization.md)
 * [Code Pipeline](code-pipeline.md)
 
