@@ -11,7 +11,7 @@ All goals are completely transparent and shared with the entire team from the co
 
 Though we make exceptions for critical issues or time sensitive opportunities, we generally try to prioritize on a quarterly basis. This process is cleverly named: Quarterly Planning.
 
-### [Quarterly planning][1]
+### Quarterly planning
 
 Quarterly planning is informed by our company strategy which is more broadly determined and changes biannually (usually, sometimes it'll be tweaked and discussed at our weekly townhall meeting). The goal of quarterly planning is to prevent too much shifting around and ensure we can deliver larger and more ambitious projects to our customers. These can span from 1 month to 9 months long with shifting team size.
 
@@ -21,7 +21,7 @@ A set of ideas will then be put up for consideration for the next quarter. Every
 
 Next, the PMs will organize as few meetings as possible for each idea/project to be presented and discussed in an open meeting for the whole company. These discussion meetings are followed by a smaller meeting to force rank these projects. This will include all of our Functional Advocates in engineering and representatives from each department (sales, marketing, customer support…). And, we are now left with a ranked list of projects we hope to complete!
 
-#### [The ranked list of projects][2]
+#### The ranked list of projects
 
 Maintaining a force-ranked list of projects can actually be a lot more difficult than it seems. We always face many distinct challenges, and understanding the tradeoffs is not trivial.
 
@@ -35,17 +35,17 @@ Engineers know where to focus effort. We have a friendly and inclusive work envi
 
 Product Managers have the final decision on the project rank. They are responsible for staying up-to-date with all stakeholders and ensuring the rank is updated when priorities shift.
 
-#### [But, how do we know which of these projects we can complete?][3]
+#### But, how do we know which of these projects we can complete?
 
 I'm glad you asked. The final step in quarterly planning is the actual workplan. This means one last meeting. The PMs and Functional Advocates for the product will meet to discuss how we can best allocate engineering resources(devs and designers). We want to: - Make sure our Bus Factor is low for each project - Try to get engineers who have expressed interest in a project allocated for it - Leave enough wiggle room that we can deal with the unexpected sure to come our way
 
 And, voila! We have a beautiful spreadsheet with all of our hopes, dreams, and priorities for the quarter.
 
-### [Priority is never immutable][4]
+### Priority is never immutable
 
-Priorities are ever changing, and that's OK. We embrace this by ensuring we're prepared to shift our focus quickly. See [Being Agile][5]. Just because we spent hours working on a plan does not mean we are stuck to the plan. Sunk cost bias is real.
+Priorities are ever changing, and that's OK. We embrace this by ensuring we're prepared to shift our focus quickly. See Being Agile. Just because we spent hours working on a plan does not mean we are stuck to the plan. Sunk cost bias is real.
 
-### [Careful, we don't want to become a custom software development shop][6]
+### Careful, we don't want to become a custom software development shop
 
 It's really easy to have a large customer who wants a specific feature that we don't quite have. We make a conscious effort to make general-purpose solutions.
 
@@ -53,7 +53,7 @@ Product work is prioritized by its effect on the business. We validate these pri
 
 MVP, or minimal viable product, is the process of breaking down big ideas and risky assumptions into the smallest possible experiment that we can test. It does _not_ mean that we can ship a sub-par or shoddy product to the customer.
 
-MVP isn't really a product, it's a process of refining the product that spans multiple releases.[1][7]
+MVP isn't really a product, it's a process of refining the product that spans multiple releases.
 
 Usually we build features that are so big they can't fit within one story, so we build epics with many stories.
 
@@ -61,7 +61,7 @@ Epic teams focus on one feature or product addition comprised of many feature st
 
 Epic teams point their own feature stories, hold their own retros, and plan their sprint goals separately with a product manager as needed.
 
-> "Agile software development is a group of software development methods in which requirements and solutions evolve through collaboration between self-organizing, cross-functional teams. It promotes adaptive planning, evolutionary development, early delivery, continuous improvement, and encourages rapid and flexible response to change." [2][8]*
+> "Agile software development is a group of software development methods in which requirements and solutions evolve through collaboration between self-organizing, cross-functional teams. It promotes adaptive planning, evolutionary development, early delivery, continuous improvement, and encourages rapid and flexible response to change." 28*
 
 Agile, ASD, CCM, DSDM, Xtreme, FDD, Lean, Kanban, Scrum, Scrum ban … Still with me? No?
 
@@ -79,11 +79,11 @@ Sprint goals are defined in a planning meeting with the epic's developers, desig
 
 The takeaways for the sprint plan meeting is to retro on the previous sprint's successees/failures, create a demo, and assign pivotal stories to individual team members.
 
-### [Defining shipped][9]
+### Defining shipped
 
 It's up to each epic team to define shipped. This definition can vary from team to team. It's essential this definition is set and shared with the company in order to judge the success of a sprint and enforce the creation of achievable sprint goals. If you can't ship _something_ in a sprint, set a different sprint goal.
 
-### [Defining the user][10]
+### Defining the user
 
 Each epic team may have a different user (customers paying via the website, client contracts, internal developers or employees, etc.) Defining the user and what is required to ship to this group also informs sprint goals.
 
@@ -91,7 +91,7 @@ Each epic team manages their own backlog of user stories. User stories encompass
 
 User stories are what the team uses to keep track of everything they're working on.
 
-### [The actors][11]
+### The actors
 
 There are a few people involved in our work flow:
 
@@ -99,7 +99,7 @@ There are a few people involved in our work flow:
 
 * **Reviewer** - This person validates the bug or feature that an implementer worked on to make sure it meets the requirements stated in the story, is tested, and is fit for a production deploy.
 
-### [Stories][12]
+### Stories
 
 Our developers work with user stories from Pivotal Tracker. What's a user story? Let's start with what it's not, and that's a task or chore.
 
@@ -113,7 +113,7 @@ There's a temptation to just write what it is that _you_ want when you start wri
 
 Who wants the beer and why do they want it? There's a little more to writing users stories then that, but you get the idea.
 
-### [Points][13]
+### Points
 
 Points represent the relative complexity of a feature story. "In epic" stories are pointed by the epic team. Stories that don't fit within an epic are pointed with the entire team in our weekly engineering meetings.
 
@@ -155,6 +155,6 @@ Transparency is tantamount for the success of our epic projects. These can be lo
 
 An epic does not end when we ship the feature(s) to a user. An epic ends after multiple release cycles. The final sprint of an epic is the cooldown sprint.
 
-### [Cooldown sprints][14]
+### Cooldown sprints
 
 A cooldown sprint allows an epic team to monitor and measure a feature after shipping. This sprint allows the epic team to fix bugs a user may encounter, re-factor code if needed, and wrap up remaining tasks before moving on to a new project or epic team.
