@@ -118,21 +118,14 @@ Who wants the beer and why do they want it? There's a little more to writing use
 
 Points represent the relative complexity of a feature story. "In epic" stories are pointed by the epic team. Stories that don't fit within an epic are pointed with the entire team in our weekly engineering meetings.
 
-\| Points \| Description \|
-
-\| ------ \| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- \|
-
-\| 0 \| This is a trivial change that you wouldn't write a test for. If you think you want to write a test, then it gets at least 1 point. \|
-
-\| 1 \| You know exactly what to do. There are no unknowns. \|
-
-\| 2 \| You expect it to be pretty easy, but you only have a high-level idea of what is involved. It will take time to work through the complexities. \|
-
-\| 3 \| Significant complexity. Involves several moving parts or something we haven't done before. You might need to investigate or test more than one potential solution. Try breaking this down into smaller stories. \|
-
-\| 5 \| You must put in significant effort to break this into smaller stories. Once or twice per year, if breaking it down is super hard, you can work on a story this complex. \|
-
-\| 8 \| This is just a placeholder story. It must be broken down into smaller stories. \|
+| Points | Description |
+| :--- | :--- |
+| 0 | This is a trivial change that you wouldn't write a test for. If you think you want to write a test, then it gets at least 1 point |
+| 1 | You know exactly what to do. There are no unknowns. |
+| 2 | You expect it to be pretty easy, but you only have a high-level idea of what is involved. It will take time to work through the complexities. |
+| 3 | Significant complexity. Involves several moving parts or something we haven't done before. You might need to investigate or test more than one potential solution. Try breaking this down into smaller stories. |
+| 5 | You must put in significant effort to break this into smaller stories. Once or twice per year, if breaking it down is super hard, you can work on a story this complex. |
+| 8 | This is just a placeholder story. It must be broken down into smaller stories. |
 
 New features ultimately have bugs, so we don't say it's done until they've all been fixed. After that, the developer can move on to build the next latest and greatest features.
 
