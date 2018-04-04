@@ -2,9 +2,10 @@
 
 How we design, build, ship, and support software
 
+Based on:
 
+* [https://playbook.polleverywhere.com](https://playbook.polleverywhere.com\)
+* [https://design.pega.com/principles-ux-process](https://design.pega.com/principles-ux-process)
 
-\(Based on https://playbook.polleverywhere.com\)
-
-\(Used http://fuckyeahmarkdown.com/ to convert to `markdown`\)
+\(Used [http://fuckyeahmarkdown.com/](http://fuckyeahmarkdown.com/) to convert to `markdown`\)
 
